@@ -1,0 +1,44 @@
+{
+  "name": "binpack.js",
+  "version": "0.0.0",
+  "description": "The Javascript implementation of binpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test-all"
+  },
+  "config": {
+    "cov": {
+      "threshold": 100
+    }
+  },
+  "dependencies": {
+
+  },
+  "devDependencies": {
+    "autod": "*",
+    "contributors": "*",
+    "should": "*",
+    "jshint": "*",
+    "cov": "*",
+    "istanbul-harmony": "*",
+    "mocha": "*"
+  },
+  "homepage": "https://github.com/node-modules/binpack.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/node-modules/binpack.js.git",
+    "web": "https://github.com/node-modules/binpack.js"
+  },
+  "bugs": {
+    "url": "https://github.com/node-modules/binpack.js/issues",
+    "email": "fengmk2@gmail.com"
+  },
+  "keywords": [
+    "binpack.js", "binpack"
+  ],
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "author": "fengmk2 <fengmk2@gmail.com> (http://fengmk2.github.com)",
+  "license": "MIT"
+}
